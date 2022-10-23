@@ -4,7 +4,7 @@ I am Md. Ibn Jihan. I live in Bangladesh. I love open source 🤍 and contributi
 # Currently working on
 I am not currently working on any projects.<br>
 Have got an idea that we can work on together?
-- 🥷 Let's talk about it: md.ibnjihan@outlook.com
+- :octocat: Let's talk about it: md.ibnjihan@outlook.com
 
 # Skills
 I love learning new skills.
