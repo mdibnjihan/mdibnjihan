@@ -1,4 +1,4 @@
-# 👋 Hey there!
+# Hey there! 👋
 I am Md. Ibn Jihan. I live in Bangladesh. I love open source 🤍 and contributing to these projects. I am currently studing at Govt. Rajendra College. I am passionate about new technologies and also love cats. 🐱
 
 # Currently working on
@@ -50,7 +50,10 @@ I love learning new skills.
         </tfoot>
     </table>
     
+<b>Certifications</b><br>
+- ICT YOUTH an online course offered by BrightSkills - Oct, 2022 - CERTIFICATE ID: 2z3cvwi5 - <a href="https://brightskills.com/search-certificate">Verify</a>
+
 # Contact
-- Email: md.ibnjihan@outlook.com
-- Post code: 7804
-- Social: https://twitter.com/mdibnjihan
+- ✉️ Email: md.ibnjihan@outlook.com
+- 📮 Post code: 7804
+- 🌏 Social: https://twitter.com/mdibnjihan
