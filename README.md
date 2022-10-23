@@ -51,7 +51,7 @@ I love learning new skills.
     </table>
     
 <b>Certifications</b><br>
-- ICT YOUTH an online course offered by BrightSkills - Oct, 2022 - CERTIFICATE ID: 2z3cvwi5 - <a href="https://brightskills.com/search-certificate">Verify</a>
+- ICT YOUTH an online course offered by BrightSkills - Oct, 2022 - CERTIFICATE ID: 2z3cvwi5 - <a href="https://brightskills.com/search-certificate" target="_blank">Verify</a>
 
 # Contact
 - ✉️ Email: md.ibnjihan@outlook.com
