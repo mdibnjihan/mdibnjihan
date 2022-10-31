@@ -35,7 +35,7 @@ I love learning new skills.
             <tr>
                 <td>JSC</td>
                 <td>2018</td>
-                <td>4.98</td>
+                <td>4.86</td>
             </tr>
             <tr>
                 <td>SSC</td>
