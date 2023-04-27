@@ -1,5 +1,5 @@
 # Hey there! 👋
-I am Md. Ibn Jihan from Bangladesh. I love open source 🤍 and contributing to these projects. I am currently studing at Govt. Rajendra College. I am passionate about new technologies and also love cats 🐱.
+I am Md. Ibn Jihan from Bangladesh. I love open source 🤍 and contributing to these projects. I am currently studying at Govt. Rajendra College. I am passionate about new technologies and also love cats 🐱.
 
 # Currently working on
 I am not currently working on any projects.<br>
