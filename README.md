@@ -45,7 +45,7 @@ I love learning new skills.
         </tbody>
         <tfoot>
             <tr>
-                <td colspan="3">HSC to be attended in 2023</td>
+                <td colspan="3">HSC to be attended in 2024</td>
             </tr>
         </tfoot>
     </table>
