@@ -2,8 +2,8 @@
 I am Md. Ibn Jihan an <b>open source programmer</b>. I am passionate about building amazing projects that make user life easier, empower developers and <b>competetive programming</b>.
 
 # Skills
-Though, I try to work with most popular programming languages as I beleive in choosing the right language for the right task thus writing a maintainable code and optimizing the workflow. Though, here are list of some languages that I know. But, I try to apply the concepts and my problem solving skills to solve the issue in a given stack.
-HTML | CSS | JavaScript | React JS | Next JS | SQL | MongoDB | C# | C/C++ | Kotlin | Flutter | Java |
+Though, I try to work with most popular programming languages as I beleive in choosing the right language for the right task thus writing a maintainable code and optimizing the workflow. Though, here are list of some languages that I know. But, I try to apply the concepts and my problem solving skills to solve the issue in a given stack.</br>
+<b>HTML | CSS | JavaScript | React JS | Next JS | SQL | MongoDB | C# | C/C++ | Kotlin | Flutter | Java |</b>
 
 # Contributing
 I mostly focus on creating small tools that make my everyday coding easier. If an amazing tools that might be helpful to anyone those repositories are made public. 
@@ -14,5 +14,6 @@ I mostly focus on creating small tools that make my everyday coding easier. If a
 Thank you being a part of the journey.
 
 # Contact
-mailto::md.ibnjihan@outlook.com
+mdibnjihan.github.io</br>
+md.ibnjihan@outlook.com</br>
 Faridpur, Dhaka, Bangladesh
