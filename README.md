@@ -1,5 +1,5 @@
 # Hey there! 👋
-I am Md. Ibn Jihan an <b>open source programmer</b>. I am passionate about building amazing projects that make user life easier, empower developers and <b>competetive programming</b>.
+I am an <b>open source programmer</b>. I am passionate about building amazing projects that make user life easier, empower developers and <b>competetive programming</b>.
 
 # Skills
 Though, I try to work with most popular programming languages as I beleive in choosing the right language for the right task thus writing a maintainable code and optimizing the workflow. Though, here are list of some languages that I know. But, I try to apply the concepts and my problem solving skills to solve the issue in a given stack.</br>
