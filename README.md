@@ -16,4 +16,3 @@ Thank you being a part of the journey.
 # Contact
 mdibnjihan.github.io</br>
 md.ibnjihan@outlook.com</br>
-Faridpur, Dhaka, Bangladesh
