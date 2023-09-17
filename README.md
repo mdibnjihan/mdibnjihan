@@ -10,5 +10,5 @@ I mostly focus on creating small tools that make my everyday coding easier. If a
 - Public repositories only store non-copyright, <i>free to use/resue code</i> and <b>non-commercial</b> use with no author credit is permitted. (The policy/liscence that is associated with the repository might be different but the purpose remains the same.)
 - Private repositories are not available but could sometimes require a few eyes to maintain and develop. That is due to propietery codebase or part of one. Access to such repositories is often limited and generally friends at work.
 - If you want to introduce a patch it is recommended to make your own version (fork) it and publish it with the patch. It is hard for me to maintain projects that are released to public. Still you can create a PR and I will try to fix it as soon as possible. Sorry for the inconvenience.
-- For creating a pull please be clear about the issue it fixes, I will review it as soon as possible and merge it.
+- For creating a PR please be clear about the issue it fixes, I will review it as soon as possible and merge it.
 Thank you being a part of the journey.</br>
