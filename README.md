@@ -1,6 +1,6 @@
 # Hey there!
-:octocat: I am an <b>open source programmer</b>. I am passionate about building amazing projects that make user life easier.
-
+:octocat: 🏳️‍⚧️ I am an <b>open source programmer</b>. I am passionate about building amazing projects that make user life easier.
+My code name: $BlueKat
 # Skills
 Though, I try to work with most popular programming languages as I beleive in choosing the right language for the right task thus writing a more maintainable code and optimizing the workflow. Though, here are list of some languages and framework that I am familiar with. But, I try to apply concepts and my problem solving skills to solve an issue in any given stack.</br>
 <b>HTML | CSS | JavaScript | React JS | Next JS | SQL | MongoDB | C# | C/C++ | Kotlin | Flutter | Java |</b>
